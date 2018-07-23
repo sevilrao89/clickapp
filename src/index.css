@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.dogs{
+ height: 100px;
+ width: 150px; 
+ float: left;
+}
+
+#gameboard{
+  width: 600px;
+  
+  
+}
